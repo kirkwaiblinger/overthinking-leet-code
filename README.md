@@ -5,7 +5,7 @@ Kirk Waiblinger ([kirk.waiblinger@gmail.com](kirk.waiblinger@gmail.com))
 
 ## Overview
 
-I recently started working on Leet Code problems in my spare time. I like to write thorough, generic solutions to the problems I work on. So, I'm making this public both for any interested parties to see, and to discourage myself from hacking away on the simpler problems.
+I recently started working on Leet Code problems in my spare time. I like to write thorough, generic solutions to the problems I work on. So, I'm making this public in case there are any interested parties (improbable) and to stop myself from hacking through the easy problems (impossible).
 
 For now, all problems are taken directly from [leetcode.com](https://leetcode.com/problemset/all/).
 
